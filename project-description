@@ -1,0 +1,80 @@
+IT Careers - GET IT - Website and Badge Application
+Description:  To create a web site application that tracks the process through learning about IT Careers for girls ages 10-14.
+You will be able to login and track your process as you learn about different careers in IT.  For each career you learn about 
+you will receive a badge of completion.  The badges you have collected will be stored in the database.  When you have learned
+about all the different careers, you will be ready to receive your GET IT Career Badge.
+
+Project Manager (PM)
+	Organizing events
+	Leading in projects
+	Managing project deliverables & timelines 
+	Working with people in many situations
+
+Business Analyst (BA)
+	Organizing & collecting needs of a system
+	Being analytical (asking questions to understand)
+	Working creatively with people on multiple tasks
+	Documenting system needs for developers and testers
+
+Quality Assurance Analyst (QA)
+	Thinking logically & analytically
+	Testing & verifying system features & functions
+	Managing system issues
+
+Software Engineer/Developer
+	Seeing results right away
+	Creating solutions to challenging problems
+	Developing systems by coding in different languages
+
+Graphics Designer
+	Thinking creatively and visually
+	Designing the look and feel of a system
+	Using graphic representations to convey information
+
+Technical Writer (Tech Writer)
+	Writing and editing content
+	Researching new systems to understand how they work
+	Organizing information to help others learn
+
+Database Administrator (DBA)
+	Managing millions of data needed for a system
+	Helping data get to the system in a split second
+	
+
+Development Schedule:
+	Week 4: Set up version control
+		Technology: Github
+	Week 5: Website shell will be built in HTML and CSS
+		Technology: JSP, SASS and Foundation - a responsive front end framework using SASS
+	Week 6: Add login authentication to the website
+		Technology: JAAS
+	Week 7: Write pages for each career (how much interactivity will I want??)
+		Technology:  
+	Week 8:  Start writing application and corresponding tests
+		Technology: Log4J and JUnit
+	Week 9: Continue writing application and corresponding tests
+		Technology:
+	Week 10: Continue writing application and corresponding tests
+		Technology:
+	Week 11: Continue writing application and corresponding tests
+		Technology: 
+	Week 12: Set up database and tables to store individual information (??)
+		Technology: Tomcat, MySQL
+	Week 13: Create several new users and test the process
+		Technology:
+	Week 14: Create badge graphics and add them to database
+		Technology:
+	Week 15: Create several new users and test test test
+		Technology:
+	Week 16: Present project to the class
+	
+		
+		
+Future additions to the web site:
+Agile Web Design
+	Learn about iterative development
+	Learn how to create a plan for your first website, sketch out your design, create a site-map, and build a mockup
+
+Learn HTML and CSS
+	Learn basic HTML CSS to create your first website based on the design you created.
+	
